@@ -35,6 +35,9 @@ There are a lot to learn and to do before I become an experienced developer. But
 
 ## Languages
 
+- Russian (native speaker)
+- Belarusian (high proficiency)
 - English (upper intermediate)
 - Spanish (beginner)
 - German (beginner)
+- Croatian (beginner)
