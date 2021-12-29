@@ -17,10 +17,24 @@ There are a lot to learn and to do before I become an experienced developer. But
 
 ## Skills
 
+- HTML + CSS
+- JavaScript Basics
+- Git
+- Adobe Photoshop, Figma
+
 ## Code
 
 ## Projects
 
 ## Education
 
+- 2003-2009 College of Music, Academy of Music, Minsk
+- 2013-2014 Clothing industry colledge, Minsk
+- 2021 htmlacademy.ru: courses and webinars
+- 2022 Rolling Scopes School
+
 ## Languages
+
+- English (upper intermediate)
+- Spanish (beginner)
+- German (beginner)
