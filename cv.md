@@ -24,8 +24,6 @@ There are a lot to learn and to do before I become an experienced developer. But
 
 ## Code
 
-## Projects
-
 ## Education
 
 - 2003-2009 College of Music, Academy of Music, Minsk
